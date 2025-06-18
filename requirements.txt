@@ -8,4 +8,5 @@ xgboost
 dill
 catboost
 flask
+gunicorn
 # -e .
